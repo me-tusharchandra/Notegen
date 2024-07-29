@@ -319,7 +319,7 @@ webencodings==0.5.1
 websocket-client==1.6.1
 websockets==12.0
 Werkzeug==3.0.1
-wheel==0.37.0
+wheel==0.43.0
 widgetsnbextension==4.0.8
 wordcloud==1.9.3
 wrapt==1.14.1
