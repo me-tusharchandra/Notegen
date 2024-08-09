@@ -1,4 +1,4 @@
-# Notegen 📚✨ - [Demo Video](https://www.youtube.com/watch?v=k_jEBhGScaA&feature=youtu.be&themeRefresh=1)
+# 📚 Notegen: Customized Notes Generation ✨ - [Demo Video](https://www.youtube.com/watch?v=k_jEBhGScaA&feature=youtu.be&themeRefresh=1)
 
 Notegen is an innovative AI-powered application that generates comprehensive notes based on user-defined topics and structures. By leveraging pools of data and a custom table of contents, Notegen creates tailored, in-depth content for various purposes such as research papers, reports, or study materials.
 
